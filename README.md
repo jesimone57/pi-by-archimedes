@@ -1,6 +1,6 @@
 # Approximating Pi Using Archimedes Method
 
-### Description of Problem
+## Description of Approach
 >The greek mathematician Archimedes approximated the universal constant Pi to several decimal points of precision.
 >How did he do it?  He used a method (algorithm) to approximate Pi by successively inscribing a circle with regular polygons.
 >According to the story Archimedes painstakingly calculated, by hand, the perimeter measure of an inscribed polygon 
@@ -13,13 +13,13 @@
 * git 2.1+
 * java 1.8+
 
-### To compile and run
+## To compile and run
 1. git clone https://github.com/jesimone57/pi-by-archimedes.git
 2. cd pi-by-archimedes/src
 3. javac com/jesimone57/App.java
 4. java  com.jesimone57.App 
 
-### Sample Output 
+## Sample Output 
  
  <pre>
  java com.jesimone57.App
