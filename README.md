@@ -7,7 +7,7 @@
 >See Full Details here [Finding Pi by Archimedes' Method](https://www.youtube.com/watch?v=_rJdkhlWZVQ)
  
 ### To compile and run
-1. git clone
+1. git clone https://github.com/jesimone57/pi-by-archimedes.git
 2. cd pi-by-archimedes/src
 3. javac com/jesimone57/App.java
 4. java  com.jesimone57.App 
